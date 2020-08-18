@@ -6,13 +6,13 @@ Web crawler that supports both focused and unfocused crawling
 Run the FocusedCrawler.py from the command prompt as follows:
 
 * For unfocused crawling ( that is without keyphrase)
->python FocusedCrawler.py <seedurl>
-Eg:
+>python FocusedCrawler.py <seedurl>\
+Eg:\
 > python FocusedCrawler.py http://en.wikipedia.org/wiki/Karen_Sparck_Jones
 
 * For Focused crawling (with keyphrase)
-> python FocusedCrawler.py <seedurl> <keyphrase>
-Eg:
+> python FocusedCrawler.py <seedurl> <keyphrase>\
+Eg:\
 > python FocusedCrawler.py http://en.wikipedia.org/wiki/Karen_Sparck_Jones retrieval
 
 ### Requirements for running the code
