@@ -1,7 +1,7 @@
 # web-crawler
 Web crawler that supports both focused and unfocused crawling
 
-### Instructions to Run the Code
+## Instructions to Run the Code
 
 Run the FocusedCrawler.py from the command prompt as follows:
 
@@ -19,7 +19,7 @@ Eg:
 python FocusedCrawler.py http://en.wikipedia.org/wiki/Karen_Sparck_Jones retrieval
 ```
 
-### Requirements for running the code
+## Requirements for running the code
 
 In order to execute this code python 3 must be installed. Further the following additional libraries have to be installed as well:
 * requests
