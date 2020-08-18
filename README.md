@@ -8,14 +8,18 @@ Run the FocusedCrawler.py from the command prompt as follows:
 * For unfocused crawling (crawling without keyphrase)
 ```
 python FocusedCrawler.py <seedurl>
+```
 Eg:
+```
 python FocusedCrawler.py http://en.wikipedia.org/wiki/Karen_Sparck_Jones
 ```
 
 * For focused crawling (crawling with keyphrase)
 ```
 python FocusedCrawler.py <seedurl> <keyphrase>
+```
 Eg:
+```
 python FocusedCrawler.py http://en.wikipedia.org/wiki/Karen_Sparck_Jones retrieval
 ```
 
